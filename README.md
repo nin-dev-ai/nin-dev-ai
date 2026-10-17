@@ -2,42 +2,62 @@
 
 <img src="header.svg" width="100%" alt="Nigel Noronha — Building intelligent systems" />
 
-<br />
+### Nigel Noronha
 
-**AI Engineer** &nbsp;·&nbsp; Agentic Systems &nbsp;·&nbsp; Applied AI Infrastructure
+**AI Engineer · Agentic Systems · Applied AI Infrastructure**
 
-[Portfolio](https://nigel-noronha.netlify.app) &nbsp; / &nbsp; [GitHub](https://github.com/nin-dev-ai)
+I build useful AI products and the engineering systems that make them reliable.
+
+[Portfolio](https://nigel-noronha.netlify.app) · [Projects](#selected-projects) · [Toolkit](#toolkit)
 
 </div>
 
-<br />
+## What I work on
 
-### Engineering intelligence into real systems.
+Agent orchestration, retrieval and knowledge systems, developer tooling, and interfaces that make complex workflows easier to use. I care about clear evaluation, dependable automation, and shipping the whole product.
 
-I build AI-powered software that moves beyond prototypes: retrieval architectures, agentic workflows, orchestration systems, and the infrastructure needed to run them reliably.
+## Selected projects
 
-My interests sit at the intersection of **applied AI, developer tooling, and product engineering** — turning complicated processes into systems people actually use.
+| Project | What it does | Built with |
+| --- | --- | --- |
+| **[StockHub](https://github.com/nin-dev-ai/stockhub-cli)** | Terminal-style financial dashboard with OpenBB data and transparent, rule-based signals. | Python · OpenBB · React · TypeScript |
+| **[harness](https://github.com/nin-dev-ai/harness)** | Coordinates Claude Code, Codex, and Cursor in isolated worktrees with shared planning and independent checks. | TypeScript · Node.js · Git |
+| **[Codex Loop Harness](https://github.com/nin-dev-ai/codex-loop-harness)** | A reusable, verification-driven Codex development loop with reviewable task branches and persistent state. | Python · GitHub Actions · Codex |
 
-### Toolkit
+## Toolkit
 
-```text
-LANGUAGES       Python · TypeScript · SQL
-AI SYSTEMS      LangChain · LangGraph · LlamaIndex · RAG · LLM agents
-DATA & SEARCH   Qdrant · PostgreSQL · Vector search
-INFRASTRUCTURE  Docker · Azure · GitHub Actions · REST APIs
-ORCHESTRATION   n8n · Workflow automation
-```
+**Languages & product**
 
-### Areas of focus
+![Python](https://img.shields.io/badge/Python-172230?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-172230?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-172230?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-172230?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-172230?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**01 / Agentic engineering** — Building reliable multi-step systems that plan, execute, evaluate, and iterate.
+**AI, retrieval & automation**
 
-**02 / Retrieval & knowledge** — Designing document ingestion, vector retrieval, and grounded AI experiences.
+![LangChain](https://img.shields.io/badge/LangChain-172230?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-172230?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-172230?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-172230?style=for-the-badge&logo=qdrant&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-172230?style=for-the-badge&logo=n8n&logoColor=white)
 
-**03 / Workflow infrastructure** — Connecting APIs, automation engines, and deployment pipelines into cohesive products.
+**Infrastructure**
 
-**04 / Product-minded AI** — Shipping thoughtful interfaces around technically complex systems.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172230?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-172230?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-172230?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-172230?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nin-dev-ai&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub activity statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nin-dev-ai&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Most used languages across public repositories" />
+</div>
 
 ---
 
-<sub>Based in the UAE · Building at the intersection of AI, systems, and design.</sub>
+<div align="center">
+  Based in the UAE · Building at the intersection of AI, systems, and design.
+</div>
