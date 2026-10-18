@@ -52,7 +52,7 @@ Agent orchestration, retrieval and knowledge systems, developer tooling, and int
 ## Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nin-dev-ai&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true" height="160" alt="GitHub activity statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nin-dev-ai&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&hide=stars,contribs" height="160" alt="GitHub activity statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nin-dev-ai&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Most used languages across public repositories" />
 </div>
 
