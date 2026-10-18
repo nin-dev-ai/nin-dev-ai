@@ -22,7 +22,7 @@ Agent orchestration, retrieval and knowledge systems, developer tooling, and int
 | --- | --- | --- |
 | **[StockHub](https://github.com/nin-dev-ai/stockhub-cli)** | Terminal-style financial dashboard with OpenBB data and transparent, rule-based signals. | Python · OpenBB · React · TypeScript |
 | **[harness](https://github.com/nin-dev-ai/harness)** | Coordinates Claude Code, Codex, and Cursor in isolated worktrees with shared planning and independent checks. | TypeScript · Node.js · Git |
-| **[Codex Loop Harness](https://github.com/nin-dev-ai/codex-loop-harness)** | A reusable, verification-driven Codex development loop with reviewable task branches and persistent state. | Python · GitHub Actions · Codex |
+| **[Claude Code & Codex Loop Harness](https://github.com/nin-dev-ai/claude-codex-loop-harness)** | A verified Claude Code and Codex development loop with isolated worktrees and reviewable task branches. | Python · GitHub Actions · Claude Code · Codex |
 
 ## Toolkit
 
